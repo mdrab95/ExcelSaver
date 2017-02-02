@@ -1,0 +1,8 @@
+c:\users\praktykant2\documents\visual studio 2015\Projects\ExcelSaver\ExcelSaver\bin\Debug\ExcelSaver.exe.config
+c:\users\praktykant2\documents\visual studio 2015\Projects\ExcelSaver\ExcelSaver\bin\Debug\ExcelSaver.exe
+c:\users\praktykant2\documents\visual studio 2015\Projects\ExcelSaver\ExcelSaver\bin\Debug\ExcelSaver.pdb
+c:\users\praktykant2\documents\visual studio 2015\Projects\ExcelSaver\ExcelSaver\obj\Debug\ExcelSaver.csprojResolveAssemblyReference.cache
+c:\users\praktykant2\documents\visual studio 2015\Projects\ExcelSaver\ExcelSaver\obj\Debug\ExcelSaver.csproj.ResolveComReference.cache
+c:\users\praktykant2\documents\visual studio 2015\Projects\ExcelSaver\ExcelSaver\obj\Debug\ExcelSaver.exe
+c:\users\praktykant2\documents\visual studio 2015\Projects\ExcelSaver\ExcelSaver\obj\Debug\ExcelSaver.pdb
+C:\Users\Praktykant2\Documents\Visual Studio 2015\Projects\ExcelSaver\ExcelSaver\bin\Debug\InputSimulator.dll
